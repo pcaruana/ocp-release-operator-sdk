@@ -2,3 +2,4 @@ kubernetes-validate
 coverage==4.5.4
 pytest
 pytest-xdist
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
